@@ -34,13 +34,13 @@ namespace ListBox
                     PictureBoxAnimales.Image = Image.FromFile("C:\\Users\\MiniLab-ing05\\source\\repos\\ListBox\\ListBox\\perro.jpg");
                     break;
                 case "Gato":
-                    PictureBoxAnimales.Image = Image.FromFile("gato.jpg");
+                    PictureBoxAnimales.Image = Image.FromFile("C:\\Users\\MiniLab-ing05\\source\\repos\\ListBox\\ListBox\\gato.jpg");
                     break;
                 case "Conejo":
-                    PictureBoxAnimales.Image = Image.FromFile("conejo.jpg");
+                    PictureBoxAnimales.Image = Image.FromFile("C:\\Users\\MiniLab-ing05\\source\\repos\\ListBox\\ListBox\\conejoo.jpg");
                     break;
                 case "Pez":
-                    PictureBoxAnimales.Image = Image.FromFile("pez.jpg");
+                    PictureBoxAnimales.Image = Image.FromFile("C:\\Users\\MiniLab-ing05\\source\\repos\\ListBox\\ListBox\\pez.jpg");
                     break;
                 default:
                     PictureBoxAnimales.Image = null;
